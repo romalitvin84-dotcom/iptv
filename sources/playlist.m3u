@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/NTV_logo_2016.svg" group-title="Россия HD",НТВ HD
 http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GalaxyScience.ru" tvg-name="Galaxy" tvg-logo="https://i.imgur.com/6ZQZQZK.png" group-title="🌌 Космос | Наука",Galaxy
+#EXTINF:-1 tvg-id="Galaxy.Science" tvg-name="Galaxy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/other/galaxy.png" group-title="🌌 Космос | Наука",Galaxy
 http://176.118.197.125/Galaxy/index.m3u8
 
 #EXTINF:-1 tvg-id="viju-history.ru" tvg-name="viju History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Viju_logo.svg" group-title="Документальные HD",viju History HD
@@ -20,7 +20,7 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1  tvg-logo=""russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Russia-1_logo.svg" group-title="Россия HD",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Okko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Okko_logo.svg" group-title="🎬 Онлайн-кинотеатры",Okko
+#EXTINF:-1 tvg-id="Okko.VOD" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ru/okko.png" group-title="🎬 Онлайн-кинотеатры",Okko
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="natgeo.com" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/National_Geographic_Logo.svg" group-title="Документальные HD",National Geographic HD
