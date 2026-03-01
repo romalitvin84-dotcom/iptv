@@ -14,7 +14,7 @@ http://176.118.197.125/viju-History/index.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.com" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_logo.svg" group-title="Документальные HD",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
-#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Russia-1_logo.svg" group-title="Россия HD",Россия 1 HD
+#EXTINF:-1  tvg-logo=""russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Russia-1_logo.svg" group-title="Россия HD",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="okko.ru" tvg-name="Okko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Okko_logo.svg" group-title="Онлайн кинотеатры",Okko
@@ -31,3 +31,4 @@ http://31.148.48.15/Terra/index.m3u8
 
 #EXTINF:-1 tvg-id="ctc.ru" tvg-name="СТС" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/STS_logo_2019.svg" group-title="Россия HD",СТС HD
 http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HGTV_logo.svg" group-title="HGTV HD",HGTV HD
