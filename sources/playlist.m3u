@@ -31,6 +31,7 @@ http://31.148.48.15/Terra/index.m3u8
 
 #EXTINF:-1 tvg-id="ctc.ru" tvg-name="СТС" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/STS_logo_2019.svg" group-title="Россия HD",СТС HD
 http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
+
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/HGTV_2010.svg" group-title="🧠 Познавательные",HGTV
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/48389:HGTV%20Home%20and%20Garden%20HD
 
